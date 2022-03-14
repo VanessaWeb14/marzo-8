@@ -1,0 +1,31 @@
+
+    @font-face {
+        font-family: letra;
+        src: url(BebasNeue-Regular.ttf);
+    }
+    table, th, td {
+        margin-top: 40px;
+        border: 5px solid black ;
+        border-collapse: collapse;
+    }
+    th , td {
+        padding: 10px ;
+    }
+    th{
+        font-family: letra;
+        text-align: center;
+        color: #e0e0e0;
+        font-size: 80px;
+        
+    }
+    td{
+        font-family: letra;
+        text-align: center;
+        color: #b99db8 ;
+        font-size: 40px;
+
+        
+    }
+    img{
+        padding: 20px;
+    }
